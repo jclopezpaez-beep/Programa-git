@@ -1,0 +1,24 @@
+.contenedor {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    border-radius: 10%;
+    border: 1%;
+    border-color: gray;
+    background-color: darkgray;
+    width: 80%;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+    .entrada{
+        width: 90%;
+        padding: 10%
+    }
+
+.formulario{
+    padding-left: 30%;
+}    
